@@ -16,6 +16,27 @@ This Python script utilizes computer vision and facial landmarks detection to co
 
 Simply stare into the webcam, and watch as your eyes take control! Blink your left eye for a magical click.
 
+## 🚨 Troubleshooting
+Encountering issues? Let's troubleshoot:
+
+💡 Ensure your webcam is connected and working.
+💡 Double-check that the dependencies are installed correctly.
+
+
+## 🎮 Usage
+Look into the Webcam:
+Move your eyes, see the magic happen!
+
+Blink for Click:
+A left-eye blink triggers a mouse click.
+
+
+## ✨ Author
+[Suhel Bhadane]
+
+GitHub: 
+Email: [suhelbhadane7666@gmail.com]
+
 ## 🛠️ Installation
 
  **Clone the Repository:**
@@ -37,26 +58,7 @@ python main.py
 
 
 
-🚨 Troubleshooting
-Encountering issues? Let's troubleshoot:
 
-💡 Ensure your webcam is connected and working.
-💡 Double-check that the dependencies are installed correctly.
-
-
-🎮 Usage
-Look into the Webcam:
-Move your eyes, see the magic happen!
-
-Blink for Click:
-A left-eye blink triggers a mouse click.
-
-
-✨ Author
-[Suhel Bhadane]
-
-GitHub: 
-Email: [suhelbhadane7666@gmail.com]
 
 
 
