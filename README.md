@@ -34,7 +34,7 @@ A left-eye blink triggers a mouse click.
 ## ✨ Author
 [Suhel Bhadane]
 
-GitHub: 
+GitHub: https://github.com/suhelBhadane
 Email: [suhelbhadane7666@gmail.com]
 
 ## 🛠️ Installation
@@ -42,7 +42,7 @@ Email: [suhelbhadane7666@gmail.com]
  **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/EyeControlled_Mouse.git
+   git clone https://github.com/suhelBhadane/EyeControlled_Mouse.git
 
 To run your project, follow these steps:
 
