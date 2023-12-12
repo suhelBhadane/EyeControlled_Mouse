@@ -1,7 +1,7 @@
 # EyeControlled_Mouse
 This Python script utilizes computer vision and facial landmarks detection to control the mouse cursor based on eye movements.
 
-<h1 align="center">👁️ Eye-Controlled Mouse</h1>
+<h1 align="center">👁️Mouse Event Handling</h1>
 
 <p align="center">
   Control your mouse with the magic of your eyes! An interactive project using OpenCV, Mediapipe, and PyAutoGUI.
